@@ -2,6 +2,7 @@
 
 Cross-Cohort Cannabis Study
 Code for analyzing associations between adolescent cannabis use and depression across three cohorts: ALSPAC (UK), LSAC (Australia), and Add Health (US).
+
 Overview
 
 Cross-contextual comparison examining cannabis use, tobacco use, and depression
