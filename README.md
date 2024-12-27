@@ -1,17 +1,16 @@
 # candep-xcohort
 
 Cross-Cohort Cannabis Study
+
 Code for analyzing associations between adolescent cannabis use and depression across three cohorts: ALSPAC (UK), LSAC (Australia), and Add Health (US).
 
-Overview
+Overview:
 
-Cross-contextual comparison examining cannabis use, tobacco use, and depression
-Analysis of self-reported data from ~17-18 year olds
-Multiple imputation handling of missing data
-Logistic regression models with survey weights
-Meta-analysis of cohort-specific effects
+Cross-contextual comparison examining cannabis use, tobacco use, and depression; each cohort file contains script for (1) data preparation, (2) cleaning, (3) imputation, main analysis, sensitivity analysis and (4) complete-case analysis.
 
-Data Sources
+Script and data for performing meta-analysis and exploration of heterogeneity contained in 'meta_analysis' file.
+
+Data Sources:
 
 ALSPAC (UK): n=3557
 LSAC (Australia): n=2422
